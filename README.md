@@ -1,4 +1,7 @@
+![image](https://github.com/Atheer-Almazrui/Atheer-Almazrui/assets/119087772/39a8beef-dac6-4658-aeb9-ba07cef5ef49)
+
 <h1 align="center">Hi 👋, I'm Atheer Almazrui</h1>
+
 <h3 align="center">A passionate frontend developer from KSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atheer-almazrui&label=Profile%20views&color=0e75b6&style=flat" alt="atheer-almazrui" /> </p>
