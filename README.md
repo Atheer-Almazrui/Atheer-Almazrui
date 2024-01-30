@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/atheer-almazrui/](https://www.linkedin.com/in/atheer-almazrui/)
 
-- ⚡**👩‍🍳✨👩‍💻 Fun fact about me: I'm a talented cook and programmer! I love solving problems in both the digital world and the kitchen. Whether I'm coding or cooking, I enjoy learning quickly and taking the lead. So, if you need a tasty meal or a smart software solution, I'm your go-to person!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
